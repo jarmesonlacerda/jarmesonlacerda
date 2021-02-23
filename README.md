@@ -39,6 +39,10 @@ Contate-me no:
 - 👷🏻 Arquitetura: Rest, Orientação a Objetos.
 - 📈 Engenharia de Software: Levantamento de requisitos, UML, Scrum e Kanbam.
 
+## Conhecimentos / Knowledges
+
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
+
 **Atualmente estou estudando  PHP  pelo YouTube, além de estudar conteúdos  pela plataforma da [Rocketseat](https://rocketseat.com.br/)**
 
 

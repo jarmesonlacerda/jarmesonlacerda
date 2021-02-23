@@ -17,9 +17,12 @@ My name is Jarmeson and...
 - 🎓  Estudante de Sistemas de Informação e Pós Graduando em Marketing Digital
 - 🌍 Sonho em  fazer Intercâmbio  e trabalhar em outro País
 
+![Jarmeson Lacerda GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 <details>
-  <sumary> <b> Things to know about me! </b> <i>(click to expand!)</i> </sumary>
+  <sumary> <b> Things to know about me... </b> <i>(click to expand!)</i> </sumary>
   
   <br>
   This is going to be hidden.
 </details>
+
+

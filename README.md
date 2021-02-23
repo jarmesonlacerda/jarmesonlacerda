@@ -9,13 +9,14 @@
 
 ### Alôôôô! Bem Vindo (a) ao meu perfil
 
-Contact-me on:
+Contate-me no:
 [LinkedInd](https://www.linkedin.com/in/jarmeson-lacerda-00960b89/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jarmesonlacerda&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 Meu nome é Jarmeson e...
--- 🌱 Atualmente estou estudando Inglês e Programar em PHP...
+
+- 🌱 Atualmente estou estudando Inglês e Programar em PHP...
 - 😄  Feliz em poder contribuir com meu conhecimento, facilitando o trabalho de outros profissionais.
 - 🏡  Brasil
 - 🎓  Estudante de Sistemas de Informação e Pós Graduando em Marketing Digital

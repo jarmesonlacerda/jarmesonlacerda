@@ -11,6 +11,8 @@
 Contact-me on:
 [LinkedInd](https://www.linkedin.com/in/jarmeson-lacerda-00960b89/)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jarmesonlacerda&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 My name is Jarmeson and...
 
 -- 🌱 I’m currently learning  InglêS, Programar em PHP...
@@ -22,8 +24,6 @@ My name is Jarmeson and...
 ![Jarmeson Lacerda GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 <details>
   <sumary> <b> Things to know about me... </b> <i>(click to expand!)</i> </sumary>
-
-[! [Top Langs] (https://github-readme-stats.vercel.app/api/top-langs/ ? Username = anuraghazra & layout = compact )] (https://github.com/anuraghazra/github-readme- Estatísticas)
 
 <br>
   This is going to be hidden.

@@ -41,7 +41,17 @@ Contate-me no:
 
 ## Conhecimentos / Knowledges
 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/jarmesonlacerda)](https://github.com/jarmesonlacerda)       [![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c++&link=https://github.com/jarmesonlacerda)](https://github.com/jarmesonlacerda)   
+
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=hhttps://github.com/jarmesonlacerda)](https://github.com/jarmesonlacerda)     [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/jarmesonlacerda)](https://github.com/jarmesonlacerda)
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&link=https://getbootstrap.com/)](https://getbootstrap.com/)     [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/jarmesonlacerda)](https://github.com/jarmesonlacerda)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&link=https://github.com/jarmesonlacerda)](https://github.com/jarmesonlacerda)
+[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&logoColor=white&link=https://github.com/jarmesonlacerda)](https://github.com/jarmesonlacerda)
+
+[![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/jarmesonlacerda)](https://github.com/jarmesonlacerda)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/jarmesonlacerda)](https://github.com/jarmesonlacerda)
+
+[![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws&link=https://github.com/jarmesonlacerda)](https://github.com/jarmesonlacerda)
 
 **Atualmente estou estudando  PHP  pelo YouTube, além de estudar conteúdos  pela plataforma da [Rocketseat](https://rocketseat.com.br/)**
 

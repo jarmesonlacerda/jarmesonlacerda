@@ -1,6 +1,6 @@
-### Hi there 👋
 
 <!--
+### Hi there 👋
 **jarmesonlacerda/jarmesonlacerda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Jarmeson Lacerda    man:_technologist:
+
+[![Linkedin Badge](https://img.shields.io/badge/- Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jarmeson-lacerda-00960b89/)](https://https://www.linkedin.com/in/jarmeson-lacerda-00960b89/)
+[![Rocketseat Badge](https://img.shields.io/badge/- Rocketseat-blue?style=flat-square&logo=Rocketseat&logoColor=white&link=https://app.rocketseat.com.br/me/francisco-jarmeson-souza-lacerda-05053)](https://app.rocketseat.com.br/me/francisco-jarmeson-souza-lacerda-05053)
+
+### Hellooo! Welcome to my profile
+
+My name is Jarmeson and...
+
+-- 🌱 I’m currently learning  InglêS, Programar em PHP...
+- 😄  Feliz em poder contribuir com meu conhecimento, facilitando o trabalho de outros profissionais.
+- 🏡  Brasil
+- 🎓  Estudante de Sistemas de Informação e Pós Graduando em Marketing Digital
+- 🌍 Sonho em  fazer Intercâmbio  e trabalhar em outro País

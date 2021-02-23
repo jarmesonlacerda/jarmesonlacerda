@@ -32,6 +32,8 @@ My name is Jarmeson and...
 - 👷🏻 Arquitetura: Rest, Orientação a Objetos.
 - 📈 Engenharia de Software: Levantamento de requisitos, UML, Scrum e Kanbam.
 
+Atualmente estou estudando  PHP  pelo YouTube, além de estudar conteúdos  pela plataforma da [Rocketseat](https://rocketseat.com.br/)
+
 
 ![Jarmeson Lacerda GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 <details>

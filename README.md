@@ -23,7 +23,7 @@ My name is Jarmeson and...
 <details>
   <sumary> <b> Things to know about me... </b> <i>(click to expand!)</i> </sumary>
 
-[! [Top Langs] (https://github-readme-stats.vercel.app/api/top-langs/ ? Username = jarmesonlacerda  & layout = compact )] (https://github.com/jarmesonlacerda/jarmesonlacerda)
+[! [Top Langs] (https://github-readme-stats.vercel.app/api/top-langs/ ? Username = anuraghazra & layout = compact )] (https://github.com/anuraghazra/github-readme- Estatísticas)
 
 <br>
   This is going to be hidden.

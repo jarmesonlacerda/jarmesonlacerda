@@ -11,7 +11,7 @@
 
 Contate-me no:
 
-[![Linkedin Badge](https://img.shields.io/badge/-JarmesonLacerda-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jarmeson-lacerda-00960b89/)](https://www.linkedin.com/in/jarmeson-lacerda-00960b89/)       [![Instagram Badge](https://img.shields.io/badge/-jlacerda_dj-6633cc?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/jlacerda_dj/)](https://www.instagram.com/jlacerda_dj/)     [![Facebook Badge](https://img.shields.io/badge/-JarmesonLacerda-6633cc?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/jarmeson.lacerda/)](https://www.facebook.com/jarmeson.lacerda/) 
+[![Linkedin Badge](https://img.shields.io/badge/-JarmesonLacerda-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jarmeson-lacerda-00960b89/)](https://www.linkedin.com/in/jarmeson-lacerda-00960b89/)       [![Instagram Badge](https://img.shields.io/badge/-jlacerda_dj-6633cc?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/jlacerda_dj/)](https://www.instagram.com/jlacerda_dj/)     [![Facebook Badge](https://img.shields.io/badge/-JarmesonLacerda-0078D4?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/jarmeson.lacerda/)](https://www.facebook.com/jarmeson.lacerda/) 
 
 [![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:jarmeson-lacerda@hotmail.com)](mailto:jarmeson-lacerda@hotmail.com)     [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jarmeson.lacerda@gmail.com)](mailto:jarmeson.lacerda@gmail.com)
 

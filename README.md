@@ -14,7 +14,7 @@ Contate-me no:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jarmesonlacerda&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-Meu nome é Jarmeson e...
+**Meu nome é Jarmeson e...**
 
 - 🌱 Atualmente estou estudando Inglês e Programar em PHP...
 - 😄  Feliz em poder contribuir com meu conhecimento, facilitando o trabalho de outros profissionais.
@@ -22,7 +22,7 @@ Meu nome é Jarmeson e...
 - 🎓  Estudante de Sistemas de Informação e Pós Graduando em Marketing Digital
 - 🌍 Sonho em  fazer Intercâmbio  e trabalhar em outro País
 
--:Habilidades e Conhecimentos/Desenvolvedor Front-End: -:
+**Habilidades e Conhecimentos/Desenvolvedor Front-End:**
 
 - 💻 Front-end: HTML, CSS (Media Query,  Flexbox, Grid), JavaScript (jQuery, ES6+), Bootstrap.
 - 🔠 Linguagens: HTML/CSS, JavaScript
@@ -33,7 +33,7 @@ Meu nome é Jarmeson e...
 - 👷🏻 Arquitetura: Rest, Orientação a Objetos.
 - 📈 Engenharia de Software: Levantamento de requisitos, UML, Scrum e Kanbam.
 
-Atualmente estou estudando  PHP  pelo YouTube, além de estudar conteúdos  pela plataforma da [Rocketseat](https://rocketseat.com.br/)
+**Atualmente estou estudando  PHP  pelo YouTube, além de estudar conteúdos  pela plataforma da [Rocketseat](https://rocketseat.com.br/)**
 
 
 ![Jarmeson Lacerda GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)

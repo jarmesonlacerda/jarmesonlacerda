@@ -21,6 +21,18 @@ My name is Jarmeson and...
 - 🎓  Estudante de Sistemas de Informação e Pós Graduando em Marketing Digital
 - 🌍 Sonho em  fazer Intercâmbio  e trabalhar em outro País
 
+-:Habilidades e Conhecimentos/Desenvolvedor Front-End: -:
+
+- 💻 Front-end: HTML, CSS (Media Query,  Flexbox, Grid), JavaScript (jQuery, ES6+), Bootstrap.
+- 🔠 Linguagens: HTML/CSS, JavaScript
+- 🎨  Projeto de solftware: Protótipo, UX/UI Designer
+- 🆚 Versionamento: Git.
+- 🎲 Banco de Dados: Linguagem SQL, Modelagem de dados, PostgreSQL.
+- 🏗️ Infraestrutura: HTTP, Windows 10.
+- 👷🏻 Arquitetura: Rest, Orientação a Objetos.
+- 📈 Engenharia de Software: Levantamento de requisitos, UML, Scrum e Kanbam.
+
+
 ![Jarmeson Lacerda GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 <details>
   <sumary> <b> Things to know about me... </b> <i>(click to expand!)</i> </sumary>

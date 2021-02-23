@@ -3,7 +3,7 @@
 ### Hi there 👋
 **jarmesonlacerda/jarmesonlacerda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-# Jarmeson Lacerda - Developer Front-End
+# Jarmeson Lacerda - Developer Front-End -:
 
 ![Welcome](/Cover-for-GitHub.gif?raw=true)
 

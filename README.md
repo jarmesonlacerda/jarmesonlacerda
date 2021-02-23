@@ -17,8 +17,9 @@ Here are some ideas to get you started:
 
 # Jarmeson Lacerda    man:_technologist:
 
-[![Linkedin Badge](https://img.shields.io/badge/- Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jarmeson-lacerda-00960b89/)](https://https://www.linkedin.com/in/jarmeson-lacerda-00960b89/)
-[![Rocketseat Badge](https://img.shields.io/badge/- Rocketseat-blue?style=flat-square&logo=Rocketseat&logoColor=white&link=https://app.rocketseat.com.br/me/francisco-jarmeson-souza-lacerda-05053)](https://app.rocketseat.com.br/me/francisco-jarmeson-souza-lacerda-05053)
+/github/followers/:user?label=Follow
+/github/forks/:user/:repo?label=Fork
+https://img.shields.io/badge/dynamic/json?url=<URL>&label=<LABEL>&query=<$.DATA.SUBDATA>&color=<COLOR>&prefix=<PREFIX>&suffix=<SUFFIX>
 
 ### Hellooo! Welcome to my profile
 

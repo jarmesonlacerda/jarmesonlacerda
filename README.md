@@ -7,15 +7,15 @@
 
 ![Welcome](/Cover-for-GitHub.gif?raw=true)
 
-### Hellooo! Welcome to my profil
+### Alôôôô! Bem Vindo (a) ao meu perfil
+
 Contact-me on:
 [LinkedInd](https://www.linkedin.com/in/jarmeson-lacerda-00960b89/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jarmesonlacerda&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-My name is Jarmeson and...
-
--- 🌱 I’m currently learning  InglêS, Programar em PHP...
+Meu nome é Jarmeson e...
+-- 🌱 Atualmente estou estudando Inglês e Programar em PHP...
 - 😄  Feliz em poder contribuir com meu conhecimento, facilitando o trabalho de outros profissionais.
 - 🏡  Brasil
 - 🎓  Estudante de Sistemas de Informação e Pós Graduando em Marketing Digital

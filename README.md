@@ -3,11 +3,11 @@
 ### Hi there 👋
 **jarmesonlacerda/jarmesonlacerda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-# Jarmeson Lacerda    man:_technologist:
-
-
+# Jarmeson Lacerda - Development  Front-End-: 
 
 ### Hellooo! Welcome to my profil
+Contact-me on:
+[LinkedInd](https://www.linkedin.com/in/jarmeson-lacerda-00960b89/)
 
 My name is Jarmeson and...
 
@@ -16,3 +16,10 @@ My name is Jarmeson and...
 - 🏡  Brasil
 - 🎓  Estudante de Sistemas de Informação e Pós Graduando em Marketing Digital
 - 🌍 Sonho em  fazer Intercâmbio  e trabalhar em outro País
+
+<details>
+  <sumary> <b> Things to know about me! <b> <i>(click to expand!)</i> <sumary>
+    
+    <br>
+    This is going to be hidden.
+</details>

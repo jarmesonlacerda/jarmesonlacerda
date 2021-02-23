@@ -5,6 +5,8 @@
 -->
 # Jarmeson Lacerda - Development  Front-End-: 
 
+![Welcome](/Cover-for-GitHub.gif?raw=true)
+
 ### Hellooo! Welcome to my profil
 Contact-me on:
 [LinkedInd](https://www.linkedin.com/in/jarmeson-lacerda-00960b89/)

@@ -18,8 +18,8 @@ My name is Jarmeson and...
 - 🌍 Sonho em  fazer Intercâmbio  e trabalhar em outro País
 
 <details>
-  <sumary> <b> Things to know about me! <b> <i>(click to expand!)</i> <sumary>
-    
-    <br>
-    This is going to be hidden.
+  <sumary> <b> Things to know about me! </b> <i>(click to expand!)</i> </sumary>
+  
+  <br>
+  This is going to be hidden.
 </details>

@@ -10,6 +10,7 @@
 ### Alôôôô! Bem Vindo (a) ao meu perfil
 
 Contate-me no:
+
 [![Linkedin Badge](https://img.shields.io/badge/-JarmesonLacerda-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jarmeson-lacerda-00960b89/)](https://www.linkedin.com/in/jarmeson-lacerda-00960b89/) 
 
 [![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:jarmeson-lacerda@hotmail.com)](mailto:jarmeson-lacerda@hotmail.com)

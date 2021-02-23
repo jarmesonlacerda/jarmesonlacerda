@@ -14,7 +14,7 @@ Contate-me no:
 
 [![Hotmail Badge](http://img.shields.io/badge/-JarmesonLacerda-6633cc?style=flat-square&logo=Hotmail&logoColor=white&link=mailtojarmeson-lacerda@hotmail.com)](mailto:jarmeson-lacerda@hotmail.com)
 
-[![Hotmail Badge](https://img.shields.io/badge/jarmeson-lacerda@hotmail.com-6633cc?style=flat-square&logo=Hotmail&logoColor=white&link=mailto:jarmeson-lacerda@hotmail.com)](mailto:jarmeson-lacerda@hotmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-jarmeson.lacerda@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jarmeson.lacerda@gmail.com)](mailto:jarmeson.lacerda@gmail.com)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jarmesonlacerda&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

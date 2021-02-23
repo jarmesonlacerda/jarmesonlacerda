@@ -13,7 +13,7 @@ Contate-me no:
 
 [![Linkedin Badge](https://img.shields.io/badge/-JarmesonLacerda-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jarmeson-lacerda-00960b89/)](https://www.linkedin.com/in/jarmeson-lacerda-00960b89/) 
 
-[![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:jarmeson-lacerda@hotmail.com)](mailto:jarmeson-lacerda@hotmail.com)
+[![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:jarmeson-lacerda@hotmail.com)](mailto:jarmeson-lacerda@hotmail.com)     [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5588997142273&text=Olá!)](https://api.whatsapp.com/send?phone=5588997142273&text=Olá!)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jarmesonlacerda&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

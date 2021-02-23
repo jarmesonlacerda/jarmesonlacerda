@@ -12,7 +12,7 @@
 Contate-me no:
 [![Linkedin Badge](https://img.shields.io/badge/-JarmesonLacerda-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jarmeson-lacerda-00960b89/)](https://www.linkedin.com/in/jarmeson-lacerda-00960b89/) 
 
-[![Hotmail Badge](https://img.shields.io/badge/jarmeson-lacerda@hotmail.com-6633cc?style=flat-square&logo=Hotmail&logoColor=white&link=mailto:jarmeson-lacerda@hotmail.com)](mailto:jarmeson-lacerda.com)
+[![Gmail Badge](https://img.shields.io/badge/-diego.schell.f@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:diego.schell.f@gmail.com)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jarmesonlacerda&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 

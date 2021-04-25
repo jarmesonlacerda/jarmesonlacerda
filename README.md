@@ -20,7 +20,7 @@ Contate-me no:
 
 **Meu nome é Jarmeson e...**
 
-- 🌱 Atualmente estou estudando Inglês e Programar em PHP...
+- 🌱 Atualmente estou estudando Inglês e Programar em REACT.JS...
 - 😄  Feliz em poder contribuir com meu conhecimento, facilitando o trabalho de outros profissionais.
 - 🏡  Brasil
 - 🎓  Estudante de Sistemas de Informação e Pós Graduando em Marketing Digital
@@ -29,7 +29,7 @@ Contate-me no:
 **Habilidades e Conhecimentos/Desenvolvedor Front-End:**
 
 - 💻 Front-end: HTML, CSS (Media Query,  Flexbox, Grid), JavaScript (jQuery, ES6+), Bootstrap.
-- 🔠 Linguagens: HTML/CSS, JavaScript
+- 🔠 Linguagens: HTML, CSS, JavaScript, React.js, Scss, TypeScript, Next.js, Node.js
 - 🎨  Projeto de solftware: Protótipo, UX/UI Designer
 - 🆚 Versionamento: Git.
 - 🎲 Banco de Dados: Linguagem SQL, Modelagem de dados, PostgreSQL.

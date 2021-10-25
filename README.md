@@ -9,7 +9,7 @@
 
 ### Alôôôô! Bem Vindo (a) ao meu perfil
 
-Contate-me no:
+Contate-m comigo por:
 
 [![Linkedin Badge](https://img.shields.io/badge/-JarmesonLacerda-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jarmeson-lacerda-00960b89/)](https://www.linkedin.com/in/jarmeson-lacerda-00960b89/)    [![Facebook Badge](https://img.shields.io/badge/-Facebook-0078D4?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/jarmeson.lacerda/)](https://www.facebook.com/jarmeson.lacerda/)       [![Instagram Badge](https://img.shields.io/badge/-Instagram-E34F26?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/jlacerda_dj/)](https://www.instagram.com/jlacerda_dj/)   
 

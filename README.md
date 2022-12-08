@@ -3,7 +3,7 @@
 ### Hi there 👋
 **jarmesonlacerda/jarmesonlacerda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-# Jarmeson Lacerda -  Desenvolvedor Front-End
+# Jarmeson Lacerda -  Desenvolvedor Front-End - Designer UX/UI - Marketing Digital
 
 ![Welcome](/Cover-for-GitHub.gif?raw=true)
 
@@ -20,22 +20,24 @@ Contate-m comigo por:
 
 **Meu nome é Jarmeson e...**
 
-- 🌱 Atualmente estou estudando Inglês e Programar em REACT.JS...
+- 🌱 Atualmente estou estudando REACT.JS pela Rocketseat...
 - 😄  Feliz em poder contribuir com meu conhecimento, facilitando o trabalho de outros profissionais.
 - 🏡  Brasil
-- 🎓  Estudante de Sistemas de Informação e Pós Graduando em Marketing Digital
+- 🎓  Graduado em Sistemas de Informação e Curso de Extenção em Marketing Digital
 - 🌍 Sonho em  fazer Intercâmbio  e trabalhar em outro País
 
 **Habilidades e Conhecimentos/Desenvolvedor Front-End:**
 
-- 💻 Front-end: HTML, CSS (Media Query,  Flexbox, Grid), JavaScript (jQuery, ES6+), Bootstrap.
-- 🔠 Linguagens: HTML, CSS, JavaScript, React.js, Scss, TypeScript, Next.js, Node.js
-- 🎨  Projeto de solftware: Protótipo, UX/UI Designer
-- 🆚 Versionamento: Git.
-- 🎲 Banco de Dados: Linguagem SQL, Modelagem de dados, PostgreSQL.
-- 🏗️ Infraestrutura: HTTP, Windows 10.
-- 👷🏻 Arquitetura: Rest, Orientação a Objetos.
+- 💻 Front-end: HTML, CSS (Media Query,  Flexbox, Grid), JavaScript (jQuery, ES6+), Bootstrap;
+- 🔠 Linguagens: HTML, CSS, JavaScript, Estudando (React.js, Scss, TypeScript, Next.js, Node.js) pela Rocketseat;
+- 🎨  Projeto de solftware: Protótipo, UX/UI Designer;
+- 🎨 Designer ( Adobe Photoshop - - Adobe Ilustrator - After Effects -Adobe  Premiere - Figma - Corel Draw - Canva );
+- 🆚 Versionamento: Git, GitHub;
+- 🎲 Banco de Dados: Linguagem SQL, Modelagem de dados, PostgreSQL;
+- 🏗️ Infraestrutura: HTTP, Windows 10;
+- 👷🏻 Arquitetura: Rest, Orientação a Objetos;
 - 📈 Engenharia de Software: Levantamento de requisitos, UML, Scrum e Kanbam.
+
 
 ## Conhecimentos / Knowledges
 
@@ -51,7 +53,7 @@ Contate-m comigo por:
 
 [![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws&link=https://github.com/jarmesonlacerda)](https://github.com/jarmesonlacerda)
 
-**Atualmente estou estudando  PHP  pelo YouTube, além de estudar conteúdos  pela plataforma da [Rocketseat](https://rocketseat.com.br/)**
+**Atualmente estou estudando  Motion Design pela plataforma do Professor Tales Ramiro, além de estudar conteúdos pela plataforma da [Rocketseat](https://rocketseat.com.br/)**
 
 
 ![Jarmeson Lacerda GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
